@@ -8,4 +8,4 @@ const App = () => {
   );
 };
 
-export default Checkpoint;
+export default App;
